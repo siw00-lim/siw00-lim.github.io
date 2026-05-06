@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Siwoo Lim"
+description              : "Interested in Machine Learning and Deep Learning"
+repository               : "siw00-lim/siw00-lim.github.io"
+google_scholar_stats_use_cdn : False
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :   # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Siwoo Lim"
+  avatar           : "images/images.jpeg"
+  bio              : "Integrated Ph.D. student at KAIST in Electrical Engineering"
+  location         : "Daejeon, Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : 
+  email            : "siu4450@kaist.ac.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : siw00-lim # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -161,3 +161,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Analytics
+# analytics:
+#   provider               : "google-gtag" 
+#                           # false (default), "google", "google-universal", "google-gtag", "custom"
+#   google:
+#     tracking_id          : "G-BM0RFTQN5M"
+#     anonymize_ip         : # true, false (default)
