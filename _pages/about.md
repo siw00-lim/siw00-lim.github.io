@@ -31,7 +31,7 @@ My research interests include:
 
 # 🔥 News
 
-- *2026.05*: 🎉 One paper (**GADA**) accepted to **ICML 2026**
+- *2026.05*: 🎉 One paper accepted to **ICML 2026**
 <!-- 아래는 자유롭게 더 추가하세요 (옛날 → 최근 순서가 위에서 아래로 보이는 게 일반적입니다) -->
 <!-- - *YYYY.MM*: 🎉 ... -->
 
@@ -58,27 +58,16 @@ My research interests include:
 
 # 🎖 Honors and Awards
 
-<!-- 받으신 상 / 장학금 / 인증서 등을 여기에 채워주세요. 예시:
-- *2024.10* **Best Paper Award**, ...
-- *2022.09* TensorFlow Developer Certificate
--->
+- *2022.01 - 2025.01*, **Silla Scholarship**, Silla Culture Scholarship Foundation
+<!-- 받으신 상 / 장학금 / 인증서 등을 여기에 더 추가해주세요. -->
 
 
 # 📖 Educations
 
-- *YYYY.MM - Present*, **Integrated Ph.D.** in Electrical Engineering. (KAIST)
-- *YYYY.MM - YYYY.MM*, **B.S.** in [학부 전공] ([학부 학교])
-
-<!-- 입학/졸업 연도를 정확히 채워주세요. -->
-
-
-# 💬 Invited Talks
-
-<!-- 초청 강연이 있었다면 추가, 없다면 이 섹션 통째로 지우세요. -->
+- *2025.03 - Present*, **Integrated Ph.D.** in Electrical Engineering. (Korea Advanced Institute of Science and Technology, KAIST)
+- *2021.03 - 2025.02*, **B.S.** in Military Digital Convergence. (Ajou University)
 
 
 # 💻 Internships
 
-<!-- 인턴십 경험이 있었다면 추가, 없다면 이 섹션 통째로 지우세요. 예시:
-- *2024.06 - 2024.08*, [회사명](https://...), 부서/팀, 국가.
--->
+- *2023.12 - 2024.02*, [Korea Aerospace Industries (KAI)](https://www.koreaaero.com/), Republic of Korea.
