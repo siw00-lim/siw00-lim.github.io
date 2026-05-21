@@ -40,7 +40,7 @@ My research interests include:
 
 ## 2026
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/gada.jpg' alt="GADA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/overview.jpg' alt="GADA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[C1] GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting](https://openreview.net/pdf?id=AZLj6ObEDF)
