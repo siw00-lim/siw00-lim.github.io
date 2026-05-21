@@ -25,8 +25,8 @@ My research interests include:
 
 - 3D Vision & Neural Rendering
 - Gaussian Splatting
-- Computer Vision
-- Deep Learning
+- Generative Models
+
 
 
 # 🔥 News
