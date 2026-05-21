@@ -47,11 +47,9 @@ My research interests include:
 
 **Siwoo Lim**, Sunjae Yoon, Gwanhyeong Koo, Chang D. Yoo
 
-**ICML** 2026
+<span style="color:#dc2626"><strong>ICML</strong></span> 2026
 
 [[project page]](https://siw00-lim.github.io/GADA-Project-Page/)
-
-- A warping-based Gaussian Splatting framework that recovers high-frequency details by actively searching for displaced pixel cues with deformable offsets, achieving 2.13× faster rendering than the IBGS baseline.
 </div>
 </div>
 
