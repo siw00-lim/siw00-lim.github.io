@@ -49,7 +49,7 @@ My research interests include:
 
 <span style="color:#dc2626"><strong>ICML</strong></span> 2026
 
-[[project page]](https://siw00-lim.github.io/GADA-Project-Page/) [[Code]](https://github.com/siw00-lim/GADA.git)
+[[Project page]](https://siw00-lim.github.io/GADA-Project-Page/) [[Code]](https://github.com/siw00-lim/GADA.git)
 </div>
 </div>
 
