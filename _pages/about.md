@@ -55,7 +55,7 @@ My research interests include:
 
 
 # 🎖 Honors and Awards
-
+- *2023.03 - 2024.03*, **Leader Scholarship C-1**, College of Software Convergence, Ajou University
 - *2022.01 - 2025.01*, **Silla Scholarship**, Silla Culture Scholarship Foundation
 <!-- 받으신 상 / 장학금 / 인증서 등을 여기에 더 추가해주세요. -->
 
