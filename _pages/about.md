@@ -19,18 +19,19 @@ redirect_from:
 
 # 😃 About me
 
-I'm an Integrated Ph.D. student at [**Artificial Intelligence & Machine Learning (U-AIM) Lab.**](http://sanctusfactory.com/u-aim/) in KAIST, under the supervision of Prof. Chang D. Yoo. My research focuses on **3D scene representation and neural rendering**, with particular interest in **Gaussian Splatting** and methods that bridge classical computer vision and modern deep learning for high-fidelity 3D reconstruction.
+I'm an Integrated Ph.D. student at [**Artificial Intelligence & Machine Learning (U-AIM) Lab.**](http://sanctusfactory.com/u-aim/) in KAIST, under the supervision of Prof. Chang D. Yoo. My research centers on **3D vision and 3D reconstruction** — recovering accurate, high-fidelity 3D representations of the world from images. I am broadly interested in **neural rendering, 3D generative modeling, and 3D editing**, bridging classical multi-view geometry with modern deep learning (including Gaussian Splatting and flow/diffusion-based 3D generation) for controllable, high-fidelity 3D content.
 
 My research interests include:
 
-- 3D Vision & Neural Rendering
-- Gaussian Splatting
-- Generative Models
+- 3D Vision & Reconstruction
+- Neural Rendering & Gaussian Splatting
+- 3D Generation & Editing
 
 
 
 # 🔥 News
 
+- *2026.06*: 🎉 Two papers accepted to **ECCV 2026**
 - *2026.05*: 🎉 One paper accepted to **ICML 2026**
 <!-- 아래는 자유롭게 더 추가하세요 (옛날 → 최근 순서가 위에서 아래로 보이는 게 일반적입니다) -->
 <!-- - *YYYY.MM*: 🎉 ... -->
@@ -39,6 +40,19 @@ My research interests include:
 # 📝 Publications 
 
 ## 2026
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/tango_teaser.jpg' alt="TanGO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[C2] TanGO: Training-Free 3D Editing via Tangent-space Guidance and Optimization](https://siw00-lim.github.io/TanGO-Project-Page/)
+
+**Siwoo Lim**, Sunjae Yoon, Gwanhyeong Koo, Hyeonseo Yun, Chang D. Yoo
+
+<span style="color:#dc2626"><strong>ECCV</strong></span> 2026
+
+[[Project page]](https://siw00-lim.github.io/TanGO-Project-Page/) [[Code]](https://github.com/siw00-lim/TanGO)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/overview.jpg' alt="GADA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
