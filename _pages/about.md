@@ -50,8 +50,6 @@ Gwanhyeong Koo, Hyunsu Kim, Youngji Kim, Taejae Lee, **Siwoo Lim**, Sunjae Yoon,
 
 <span style="color:#dc2626"><strong>ECCV</strong></span> 2026
 
-*Work done during the internship at NAVER LABS*
-
 [[Project page]](https://kookie12.github.io/InSpace-Project-Page)
 </div>
 </div>
