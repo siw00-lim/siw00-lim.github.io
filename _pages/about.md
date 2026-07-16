@@ -41,6 +41,21 @@ My research interests include:
 
 ## 2026
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/inspace_teaser.jpg' alt="InSpace" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[C3] InSpace: Structure-Aware 3D Indoor Scene Generation from a Single 360° Image](https://kookie12.github.io/InSpace-Project-Page)
+
+Gwanhyeong Koo, Hyunsu Kim, Youngji Kim, Taejae Lee, **Siwoo Lim**, Sunjae Yoon, Suyong Yeon, Chang D. Yoo
+
+<span style="color:#dc2626"><strong>ECCV</strong></span> 2026
+
+*Work done during the internship at NAVER LABS*
+
+[[Project page]](https://kookie12.github.io/InSpace-Project-Page)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/tango_teaser.jpg' alt="TanGO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,6 +81,11 @@ My research interests include:
 [[Project page]](https://siw00-lim.github.io/GADA-Project-Page/) [[Code]](https://github.com/siw00-lim/GADA.git)
 </div>
 </div>
+
+
+# 🧑‍🏫 Teaching Assistant
+
+- **[EE531] Statistical Learning Theory**: 2026 Spring
 
 
 # 🎖 Honors and Awards
