@@ -60,7 +60,7 @@ Tri Ton, **Siwoo Lim**, Joshua Tian Jin Tee, Chang D. Yoo
 
 Gwanhyeong Koo, Hyunsu Kim, Youngji Kim, Taejae Lee, **Siwoo Lim**, Sunjae Yoon, Suyong Yeon, Chang D. Yoo
 
-<span style="color:#dc2626"><strong>ECCV</strong></span> 2026
+<span style="color:#dc2626"><strong>ECCV</strong></span> 2026 <span style="color:#dc2626"><strong>(Spotlight)</strong></span>
 
 [[Project page]](https://kookie12.github.io/InSpace-Project-Page)
 </div>
