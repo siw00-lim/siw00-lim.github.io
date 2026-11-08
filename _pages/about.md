@@ -31,6 +31,7 @@ My research interests include:
 
 # 🔥 News
 
+- *2026.09*: 🎉 One paper accepted to **NeurIPS 2026**
 - *2026.06*: 🎉 Two papers accepted to **ECCV 2026**
 - *2026.05*: 🎉 One paper accepted to **ICML 2026**
 <!-- 아래는 자유롭게 더 추가하세요 (옛날 → 최근 순서가 위에서 아래로 보이는 게 일반적입니다) -->
@@ -40,6 +41,17 @@ My research interests include:
 # 📝 Publications 
 
 ## 2026
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/focusflow_teaser.png' alt="FocusFlow" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[C4] Training-Free 3D Editing via Feature-Divergence Localization and Trajectory Correction]()
+
+Tri Ton, **Siwoo Lim**, Joshua Tian Jin Tee, Chang D. Yoo
+
+<span style="color:#dc2626"><strong>NeurIPS</strong></span> 2026
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/inspace_teaser.jpg' alt="InSpace" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
